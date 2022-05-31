@@ -46,7 +46,7 @@
 - Other Repo
 
     |Name|Language|:star2:Stars|Version|License|
-    |:-:|:-:|:-:|:-:|:-:|:-:|
+    |:-:|:-:|:-:|:-:|:-:|
     |**[BUAA-Postgraduate-Aischedule]**|![BUAA-Postgraduate-Aischedule-Language]|![BUAA-Postgraduate-Aischedule-Stars]|![BUAA-Postgraduate-Aischedule-Version]|![BUAA-Postgraduate-Aischedule-License]|
 
 [BUAA-Postgraduate-Aischedule]: https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule
