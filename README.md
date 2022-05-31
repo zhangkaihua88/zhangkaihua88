@@ -9,8 +9,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangkaihua88&layout=compact&langs_count=8"/>
 </a>
 </p>
+
 ## Open source Repo
+
 - **[QuickLook](https://github.com/QL-Win/QuickLook) Plugin**
+    
     |Name|Language|:star2:Stars|Downloads|Version|License|
     |:-:|:-:|:-:|:-:|:-:|:-:|
     |**[JupyterNotebookViewer]**|![JupyterNotebookViewerLanguage]|![JupyterNotebookViewerStars]|![JupyterNotebookViewerDownloads]|![JupyterNotebookViewerVersion]|![JupyterNotebookViewerLicense]|
@@ -41,6 +44,7 @@
 
 
 - Other Repo
+
     |Name|Language|:star2:Stars|Version|License|
     |:-:|:-:|:-:|:-:|:-:|:-:|
     |**[BUAA-Postgraduate-Aischedule]**|![BUAA-Postgraduate-Aischedule-Language]|![BUAA-Postgraduate-Aischedule-Stars]|![BUAA-Postgraduate-Aischedule-Version]|![BUAA-Postgraduate-Aischedule-License]|
