@@ -19,6 +19,7 @@
     |**[JupyterNotebookViewer]**|![JupyterNotebookViewerLanguage]|![JupyterNotebookViewerStars]|![JupyterNotebookViewerDownloads]|![JupyterNotebookViewerVersion]|![JupyterNotebookViewerLicense]|
     |**[XMindViewer-Thumbnail]**|![XMindViewer-ThumbnailLanguage]|![XMindViewer-ThumbnailStars]|![XMindViewer-ThumbnailDownloads]|![XMindViewer-ThumbnailVersion]|![XMindViewer-ThumbnailLicense]|
     |**[KritaVirwer-MergedImage]**|![KritaVirwer-MergedImageLanguage]|![KritaVirwer-MergedImageStars]|![KritaVirwer-MergedImageDownloads]|![KritaVirwer-MergedImageVersion]|![KritaVirwer-MergedImageLicense]|
+    |**[CorelDrawViewer-Thumbnail]**|![CorelDrawViewer-ThumbnailLanguage]|![CorelDrawViewer-ThumbnailStars]|![CorelDrawViewer-ThumbnailDownloads]|![CorelDrawViewer-ThumbnailVersion]|![CorelDrawViewer-ThumbnailLicense]|
 
 
 [JupyterNotebookViewer]: https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer
@@ -42,6 +43,12 @@
 [KritaVirwer-MergedImageLicense]: https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage
 [KritaVirwer-MergedImageLanguage]: https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage
 
+[CorelDrawViewer-Thumbnail]: https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
+[CorelDrawViewer-ThumbnailDownloads]: https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail/total?color=success
+[CorelDrawViewer-ThumbnailVersion]: https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
+[CorelDrawViewer-ThumbnailStars]: https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
+[CorelDrawViewer-ThumbnailLicense]: https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
+[CorelDrawViewer-ThumbnailLanguage]: https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
 
 - Other Repo
 

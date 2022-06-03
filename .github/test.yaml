@@ -1,0 +1,53 @@
+# # 定义Workflow的名字
+# name: Greeting from Mona
+
+# # 定义Workflow的触发器
+# on: push
+
+# # 定义Workflow的job
+# jobs:
+#   # 定义job_id
+#   job_1:
+#     # job name, jobs.<job_id>.name
+#     name: My first job
+#     # 定义可用的运行环境windows-2019|ubuntu-20.04|ubuntu-18.04|ubuntu-16.04|macos-10.15
+#     runs-on: ubuntu-20.04
+#     # 环境变量
+#     env:
+#       FIRST_NAME: Mona
+#     # job的输出, 用于needs
+#     outputs: 
+#       output1: ${{ steps.step1.outputs.test }}
+#       output2: ${{ steps.step2.outputs.test }}
+#     steps:
+#       - id: step1
+#         run: |
+#           echo "::set-output name=test::hello"
+#           echo "123"
+#         # 运行位置
+#         working-directory: ./temp
+#         # 指定shell类型
+#         shell: base
+#       - id: step2
+#         run: echo "::set-output name=test::world"
+#     # 控制语句
+#     if: 
+#   job_2:
+#     name: My second job
+#     # job依赖于my_first_job的输出
+# 		needs: job_1
+# 		steps:
+# 	    - run: echo ${{needs.job1.outputs.output1}} ${{needs.job1.outputs.output2}}
+# 	job_3:
+# 		name: My third job
+# 		needs: [job_1, job_2]
+#     # 矩阵, 控制多次不同环境的重复命令
+#     - runs-on: ${{ matrix.os }}
+#     strategy:
+#       matrix:
+#         os: [ubuntu-16.04, ubuntu-18.04]
+#         node: [6, 8, 10]
+#     steps:
+#       - uses: actions/setup-node@v1
+#         with:
+#           node-version: ${{ matrix.node }}
