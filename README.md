@@ -20,6 +20,7 @@
     |**[XMindViewer-Thumbnail]**|![XMindViewer-ThumbnailLanguage]|![XMindViewer-ThumbnailStars]|![XMindViewer-ThumbnailDownloads]|![XMindViewer-ThumbnailVersion]|![XMindViewer-ThumbnailLicense]|
     |**[KritaVirwer-MergedImage]**|![KritaVirwer-MergedImageLanguage]|![KritaVirwer-MergedImageStars]|![KritaVirwer-MergedImageDownloads]|![KritaVirwer-MergedImageVersion]|![KritaVirwer-MergedImageLicense]|
     |**[CorelDrawViewer-Thumbnail]**|![CorelDrawViewer-ThumbnailLanguage]|![CorelDrawViewer-ThumbnailStars]|![CorelDrawViewer-ThumbnailDownloads]|![CorelDrawViewer-ThumbnailVersion]|![CorelDrawViewer-ThumbnailLicense]|
+    |**[DDSViewer]**|![DDSViewerLanguage]|![DDSViewerStars]|![DDSViewerDownloads]|![DDSViewerVersion]|![DDSViewerLicense]|
 
 
 [JupyterNotebookViewer]: https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer
@@ -49,6 +50,13 @@
 [CorelDrawViewer-ThumbnailStars]: https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
 [CorelDrawViewer-ThumbnailLicense]: https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
 [CorelDrawViewer-ThumbnailLanguage]: https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
+
+[DDSViewer]: https://github.com/zhangkaihua88/QuickLook.Plugin.DDSViewer
+[DDSViewerDownloads]: https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.DDSViewer/total?color=success
+[DDSViewerVersion]: https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.DDSViewer
+[DDSViewerStars]: https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.DDSViewer
+[DDSViewerLicense]: https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.DDSViewer
+[DDSViewerLanguage]: https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.DDSViewer
 
 - Other Repo
 
