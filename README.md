@@ -71,10 +71,6 @@
 [BUAA-Postgraduate-Aischedule-License]: https://img.shields.io/github/license/zhangkaihua88/BUAA-Postgraduate-Aischedule
 [BUAA-Postgraduate-Aischedule-Version]: https://img.shields.io/badge/version-Ver.3604-blue?logo=xiaomi
 
-<p align="center">
-  <img src="connect.svg" width="300" height="100">
-</p>	
-
 
 
 <!-- - [Awesome-Social-Media-Buttons-with-Hover-Animation-](https://github.com/Call-me-phoenix/Awesome-Social-Media-Buttons-with-Hover-Animation-) -->
