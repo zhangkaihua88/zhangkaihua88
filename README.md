@@ -73,7 +73,7 @@
 [BUAA-Postgraduate-Aischedule-Version]: https://img.shields.io/badge/version-Ver.3604-blue?logo=xiaomi
 
 
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href=".\style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
 
 <div class="wrapper">
