@@ -1,8 +1,17 @@
 
 
 # :sunglasses: Hey! Nice to see you.
-![visitors](https://komarev.com/ghpvc/?username=zhangkaihua88)
-
+<p align="center">
+  <a href="https://github.com/zhangkaihua88">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.2.0/icons/github.svg" width="22px" style="max-width: 100%;">
+  </a>
+  <a href="mailto:zhangkaihua8@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.2.0/icons/maildotru.svg" width="22px" style="max-width: 100%;">
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhangkaihua88">
+</p>
 # :gear: GitHub Analytics
 <p align="center">
 <a href="https://github.com/zhangkaihua88">
