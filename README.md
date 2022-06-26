@@ -1,8 +1,7 @@
 
 
 # :sunglasses: Hey! Nice to see you.
-
-
+![visitors](https://komarev.com/ghpvc/?username=zhangkaihua88)
 
 # :gear: GitHub Analytics
 <p align="center">
@@ -72,18 +71,22 @@
 [BUAA-Postgraduate-Aischedule-License]: https://img.shields.io/github/license/zhangkaihua88/BUAA-Postgraduate-Aischedule
 [BUAA-Postgraduate-Aischedule-Version]: https://img.shields.io/badge/version-Ver.3604-blue?logo=xiaomi
 
+<!-- <p align="center">
+  <img src="connect.svg" width="300" height="100">
+</p>	 -->
 
 <link rel="stylesheet" type="text/css" href=".\style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
 
 <div class="wrapper">
-    <div class="button">
-      <div class="icon">
-        <i class="fab fa-github"></i>
-      </div>
-      <span>Github</span>
+  <div class="button">
+    <div class="icon">
+      <i class="fab fa-github"></i>
     </div>
+    <span>Github</span>
+  </div>
 </div>
+
 
 
 <!-- - [Awesome-Social-Media-Buttons-with-Hover-Animation-](https://github.com/Call-me-phoenix/Awesome-Social-Media-Buttons-with-Hover-Animation-) -->
