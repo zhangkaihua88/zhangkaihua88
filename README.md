@@ -81,9 +81,10 @@
 [BUAA-Postgraduate-Aischedule-Version]: https://img.shields.io/badge/version-Ver.3604-blue?logo=xiaomi
 
 <p align="center">
-  <img src="connect.svg" width="300" height="100">
+  <img src="https://www.zkhweb.top/HTML/connect.svg" width="100%" height="80px">
 </p>
 
+![](https://www.zkhweb.top/HTML/connect.svg)
 
 
 <!-- - [Awesome-Social-Media-Buttons-with-Hover-Animation-](https://github.com/Call-me-phoenix/Awesome-Social-Media-Buttons-with-Hover-Animation-) -->
