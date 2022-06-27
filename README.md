@@ -80,11 +80,11 @@
 [BUAA-Postgraduate-Aischedule-License]: https://img.shields.io/github/license/zhangkaihua88/BUAA-Postgraduate-Aischedule
 [BUAA-Postgraduate-Aischedule-Version]: https://img.shields.io/badge/version-Ver.3604-blue?logo=xiaomi
 
+<p align="center">
+  <img src="connect.svg" width="300" height="100">
+</p>
 
 
-<iframe style="height:80px; width:100%;" src="https://www.zkhweb.top/HTML/connect.html" frameborder=0>
-<b>IFrame is unavailable here</b>
-</iframe>
 
 <!-- - [Awesome-Social-Media-Buttons-with-Hover-Animation-](https://github.com/Call-me-phoenix/Awesome-Social-Media-Buttons-with-Hover-Animation-) -->
 
