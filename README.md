@@ -70,15 +70,16 @@
 
 - Other Repo
 
-    |Name|Language|:star2:Stars|Version|License|
-    |:-:|:-:|:-:|:-:|:-:|
-    |**[BUAA-Postgraduate-Aischedule]**|![BUAA-Postgraduate-Aischedule-Language]|![BUAA-Postgraduate-Aischedule-Stars]|![BUAA-Postgraduate-Aischedule-Version]|![BUAA-Postgraduate-Aischedule-License]|
+    |Name|Language|:star2:Stars|Downloads|Version|License|
+    |:-:|:-:|:-:|:-:|:-:|:-:|
+    |**[BUAA-Postgraduate-Aischedule]**|![BUAA-Postgraduate-Aischedule-Language]|![BUAA-Postgraduate-Aischedule-Stars]|![BUAA-Postgraduate-Aischedule-Downloads]|![BUAA-Postgraduate-Aischedule-Version]|![BUAA-Postgraduate-Aischedule-License]|
 
 [BUAA-Postgraduate-Aischedule]: https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule
 [BUAA-Postgraduate-Aischedule-Language]: https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Postgraduate-Aischedule
 [BUAA-Postgraduate-Aischedule-Stars]: https://img.shields.io/github/stars/zhangkaihua88/BUAA-Postgraduate-Aischedule
+[BUAA-Postgraduate-Aischedule-Downloads]: https://www.zkhweb.top/VercelAPI/api/MIAISchedule/usage_badge.svg
 [BUAA-Postgraduate-Aischedule-License]: https://img.shields.io/github/license/zhangkaihua88/BUAA-Postgraduate-Aischedule
-[BUAA-Postgraduate-Aischedule-Version]: https://img.shields.io/badge/version-Ver.3604-blue?logo=xiaomi
+[BUAA-Postgraduate-Aischedule-Version]: https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Postgraduate-Aischedule?label=ver.&logo=xiaomi
 
 <iframe style="height:80px; width:100%;" src="https://www.zkhweb.top/HTML/connect.html" frameborder="0" scrolling="no">  </iframe>
 
