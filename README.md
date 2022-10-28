@@ -73,6 +73,8 @@
     |Name|Language|:star2:Stars|Downloads|Version|License|
     |:-:|:-:|:-:|:-:|:-:|:-:|
     |**[BUAA-Postgraduate-Aischedule]**|![BUAA-Postgraduate-Aischedule-Language]|![BUAA-Postgraduate-Aischedule-Stars]|![BUAA-Postgraduate-Aischedule-Downloads]|![BUAA-Postgraduate-Aischedule-Version]|![BUAA-Postgraduate-Aischedule-License]|
+    |**[BUAA-Thesis-Download]**|![BUAA-Thesis-Download-Language]|![BUAA-Thesis-Download-Stars]|![BUAA-Thesis-Download-Downloads]|![BUAA-Thesis-Download-Version]|![BUAA-Thesis-Download-License]|
+
 
 [BUAA-Postgraduate-Aischedule]: https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule
 [BUAA-Postgraduate-Aischedule-Language]: https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Postgraduate-Aischedule
@@ -80,6 +82,14 @@
 [BUAA-Postgraduate-Aischedule-Downloads]: https://www.zkhweb.top/VercelAPI/api/MIAISchedule/usage_badge.svg
 [BUAA-Postgraduate-Aischedule-License]: https://img.shields.io/github/license/zhangkaihua88/BUAA-Postgraduate-Aischedule
 [BUAA-Postgraduate-Aischedule-Version]: https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Postgraduate-Aischedule?label=ver.&logo=xiaomi
+
+
+[BUAA-Thesis-Download]: https://github.com/zhangkaihua88/BUAA-Thesis-Download
+[BUAA-Thesis-Download-Language]: https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Thesis-Download
+[BUAA-Thesis-Download-Stars]: https://img.shields.io/github/stars/zhangkaihua88/BUAA-Thesis-Download
+[BUAA-Thesis-Download-Downloads]: https://img.shields.io/github/downloads/zhangkaihua88/BUAA-Thesis-Download/total?color=success
+[BUAA-Thesis-Download-License]: https://img.shields.io/github/license/zhangkaihua88/BUAA-Thesis-Download
+[BUAA-Thesis-Download-Version]: https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Thesis-Download?label=ver.&logo=xiaomi
 
 <iframe style="height:80px; width:100%;" src="https://www.zkhweb.top/HTML/connect.html" frameborder="0" scrolling="no">  </iframe>
 
