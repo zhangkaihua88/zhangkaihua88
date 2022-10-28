@@ -89,7 +89,7 @@
 [BUAA-Thesis-Download-Stars]: https://img.shields.io/github/stars/zhangkaihua88/BUAA-Thesis-Download
 [BUAA-Thesis-Download-Downloads]: https://img.shields.io/github/downloads/zhangkaihua88/BUAA-Thesis-Download/total?color=success
 [BUAA-Thesis-Download-License]: https://img.shields.io/github/license/zhangkaihua88/BUAA-Thesis-Download
-[BUAA-Thesis-Download-Version]: https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Thesis-Download?label=ver.&logo=xiaomi
+[BUAA-Thesis-Download-Version]: https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Thesis-Download?label=ver.
 
 <iframe style="height:80px; width:100%;" src="https://www.zkhweb.top/HTML/connect.html" frameborder="0" scrolling="no">  </iframe>
 
