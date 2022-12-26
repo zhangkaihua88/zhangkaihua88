@@ -21,75 +21,32 @@
 </p>
 
 ## Open source Repo
-
 - **[QuickLook](https://github.com/QL-Win/QuickLook) Plugin**
-    
-    |Name|Language|:star2:Stars|Downloads|Version|License|
-    |:-:|:-:|:-:|:-:|:-:|:-:|
-    |**[JupyterNotebookViewer]**|![JupyterNotebookViewerLanguage]|![JupyterNotebookViewerStars]|![JupyterNotebookViewerDownloads]|![JupyterNotebookViewerVersion]|![JupyterNotebookViewerLicense]|
-    |**[XMindViewer-Thumbnail]**|![XMindViewer-ThumbnailLanguage]|![XMindViewer-ThumbnailStars]|![XMindViewer-ThumbnailDownloads]|![XMindViewer-ThumbnailVersion]|![XMindViewer-ThumbnailLicense]|
-    |**[KritaVirwer-MergedImage]**|![KritaVirwer-MergedImageLanguage]|![KritaVirwer-MergedImageStars]|![KritaVirwer-MergedImageDownloads]|![KritaVirwer-MergedImageVersion]|![KritaVirwer-MergedImageLicense]|
-    |**[CorelDrawViewer-Thumbnail]**|![CorelDrawViewer-ThumbnailLanguage]|![CorelDrawViewer-ThumbnailStars]|![CorelDrawViewer-ThumbnailDownloads]|![CorelDrawViewer-ThumbnailVersion]|![CorelDrawViewer-ThumbnailLicense]|
-    |**[DDSViewer]**|![DDSViewerLanguage]|![DDSViewerStars]|![DDSViewerDownloads]|![DDSViewerVersion]|![DDSViewerLicense]|
+
+ |Name|Language|Stars|Downloads|Version|License|
+ |:-:|:-:|:-:|:-:|:-:|:-:|
+ |**[JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)|
+ |**[XMindViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)|
+ |**[KritaVirwer-MergedImage](https://github.com/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)|
+ |**[CorelDrawViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|
+ |**[DDSViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.DDSViewer)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.DDSViewer)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.DDSViewer)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.DDSViewer/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.DDSViewer)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.DDSViewer)|
+
+- **Competition Repo**
+
+ |Name|Other|Language|Stars|License|
+ |:-:|:-:|:-:|:-:|:-:|
+ |**[2022人民网人工智能算法大赛-微博流行度预测](https://github.com/zhangkaihua88/2022WeiboPopularityPrediction)**|Rank 1|![](https://img.shields.io/github/languages/top/zhangkaihua88/2022WeiboPopularityPrediction)|![](https://img.shields.io/github/stars/zhangkaihua88/2022WeiboPopularityPrediction)|![](https://img.shields.io/github/license/zhangkaihua88/2022WeiboPopularityPrediction)|
+
+- **Other Repo**
+
+ |Name|Language|Stars|Downloads|Version|License|
+ |:-:|:-:|:-:|:-:|:-:|:-:|
+ |**[BUAA-Postgraduate-Aischedule](https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Postgraduate-Aischedule)|![](https://img.shields.io/github/stars/zhangkaihua88/BUAA-Postgraduate-Aischedule)|![](https://www.zkhweb.top/VercelAPI/api/MIAISchedule/usage_badge.svg)|![](https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Postgraduate-Aischedule)|![](https://img.shields.io/github/license/zhangkaihua88/BUAA-Postgraduate-Aischedule)|
+ |**[BUAA-Thesis-Download](https://github.com/zhangkaihua88/BUAA-Thesis-Download)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Thesis-Download)|![](https://img.shields.io/github/stars/zhangkaihua88/BUAA-Thesis-Download)|![](https://img.shields.io/github/downloads/zhangkaihua88/BUAA-Thesis-Download/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Thesis-Download)|![](https://img.shields.io/github/license/zhangkaihua88/BUAA-Thesis-Download)|
 
 
-[JupyterNotebookViewer]: https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer
-[JupyterNotebookViewerDownloads]: https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/total?color=success
-[JupyterNotebookViewerVersion]: https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer
-[JupyterNotebookViewerStars]: https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer
-[JupyterNotebookViewerLicense]: https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer
-[JupyterNotebookViewerLanguage]: https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer
-
-[XMindViewer-Thumbnail]: https://github.com/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail
-[XMindViewer-ThumbnailDownloads]: https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail/total?color=success
-[XMindViewer-ThumbnailVersion]: https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail
-[XMindViewer-ThumbnailStars]: https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail
-[XMindViewer-ThumbnailLicense]: https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail
-[XMindViewer-ThumbnailLanguage]: https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail
-
-[KritaVirwer-MergedImage]: https://github.com/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage
-[KritaVirwer-MergedImageDownloads]: https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage/total?color=success
-[KritaVirwer-MergedImageVersion]: https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage
-[KritaVirwer-MergedImageStars]: https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage
-[KritaVirwer-MergedImageLicense]: https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage
-[KritaVirwer-MergedImageLanguage]: https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage
-
-[CorelDrawViewer-Thumbnail]: https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
-[CorelDrawViewer-ThumbnailDownloads]: https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail/total?color=success
-[CorelDrawViewer-ThumbnailVersion]: https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
-[CorelDrawViewer-ThumbnailStars]: https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
-[CorelDrawViewer-ThumbnailLicense]: https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
-[CorelDrawViewer-ThumbnailLanguage]: https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail
-
-[DDSViewer]: https://github.com/zhangkaihua88/QuickLook.Plugin.DDSViewer
-[DDSViewerDownloads]: https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.DDSViewer/total?color=success
-[DDSViewerVersion]: https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.DDSViewer
-[DDSViewerStars]: https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.DDSViewer
-[DDSViewerLicense]: https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.DDSViewer
-[DDSViewerLanguage]: https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.DDSViewer
-
-- Other Repo
-
-    |Name|Language|:star2:Stars|Downloads|Version|License|
-    |:-:|:-:|:-:|:-:|:-:|:-:|
-    |**[BUAA-Postgraduate-Aischedule]**|![BUAA-Postgraduate-Aischedule-Language]|![BUAA-Postgraduate-Aischedule-Stars]|![BUAA-Postgraduate-Aischedule-Downloads]|![BUAA-Postgraduate-Aischedule-Version]|![BUAA-Postgraduate-Aischedule-License]|
-    |**[BUAA-Thesis-Download]**|![BUAA-Thesis-Download-Language]|![BUAA-Thesis-Download-Stars]|![BUAA-Thesis-Download-Downloads]|![BUAA-Thesis-Download-Version]|![BUAA-Thesis-Download-License]|
 
 
-[BUAA-Postgraduate-Aischedule]: https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule
-[BUAA-Postgraduate-Aischedule-Language]: https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Postgraduate-Aischedule
-[BUAA-Postgraduate-Aischedule-Stars]: https://img.shields.io/github/stars/zhangkaihua88/BUAA-Postgraduate-Aischedule
-[BUAA-Postgraduate-Aischedule-Downloads]: https://www.zkhweb.top/VercelAPI/api/MIAISchedule/usage_badge.svg
-[BUAA-Postgraduate-Aischedule-License]: https://img.shields.io/github/license/zhangkaihua88/BUAA-Postgraduate-Aischedule
-[BUAA-Postgraduate-Aischedule-Version]: https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Postgraduate-Aischedule?label=ver.&logo=xiaomi
-
-
-[BUAA-Thesis-Download]: https://github.com/zhangkaihua88/BUAA-Thesis-Download
-[BUAA-Thesis-Download-Language]: https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Thesis-Download
-[BUAA-Thesis-Download-Stars]: https://img.shields.io/github/stars/zhangkaihua88/BUAA-Thesis-Download
-[BUAA-Thesis-Download-Downloads]: https://img.shields.io/github/downloads/zhangkaihua88/BUAA-Thesis-Download/total?color=success
-[BUAA-Thesis-Download-License]: https://img.shields.io/github/license/zhangkaihua88/BUAA-Thesis-Download
-[BUAA-Thesis-Download-Version]: https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Thesis-Download?label=ver.
 
 <iframe style="height:80px; width:100%;" src="https://www.zkhweb.top/HTML/connect.html" frameborder="0" scrolling="no">  </iframe>
 
