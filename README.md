@@ -1,23 +1,23 @@
 <h1 align="center">Hi there, I'm Kaihua Zhang<img src="./images/Hi.gif" height="32" /></h1>
 <p align="center">
   <a href="https://github.com/zhangkaihua88">
-    <img src="./images/github-line.svg" width="22px" style="max-width: 100%;">
+    <img src="./images/github-line.svg" width="30px" style="max-width: 100%;">
   </a>
   <a href="mailto:zhangkaihua8@gmail.com">
-    <img src="./images/at-line.svg" width="22px" style="max-width: 100%;">
+    <img src="./images/at-line.svg" width="30px" style="max-width: 100%;">
   </a>
   <a href="https://www.zkhweb.top/">
-    <img src="./images/global-line.svg" width="22px" style="max-width: 100%;">
+    <img src="./images/global-line.svg" width="30px" style="max-width: 100%;">
   </a>
   <a href="https://space.bilibili.com/37153003">
-    <img src="./images/bilibili-line.svg" width="22px" style="max-width: 100%;">
+    <img src="./images/bilibili-line.svg" width="30px" style="max-width: 100%;">
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhangkaihua88">
-  <!-- <a href="https://www.buymeacoffee.com/mokkapps" rel="nofollow">
-      <img height="20px" src="https://cdn.buymeacoffee.com/buttons/default-red.png" >
-    </a> -->
+  <img height=25px, src="https://komarev.com/ghpvc/?username=zhangkaihua88">
+  <a href="https://www.paypal.com/paypalme/zhangkaihua">
+      <img height="25px" src="./images/paypal.png" >
+    </a>
 </p>
 
 
