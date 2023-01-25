@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Kaihua Zhang<img src="./images/Hi.gif" height="32" /></h1>
+
 <p align="center">
   <a href="https://github.com/zhangkaihua88">
     <img src="./images/github-line.svg" width="30px" style="max-width: 100%;">
@@ -14,15 +15,29 @@
   </a>
 </p>
 <p align="center">
-  <img height=25px, src="https://komarev.com/ghpvc/?username=zhangkaihua88">
+  <a href="https://github.com/zhangkaihua88/zhangkaihua88">
+    <img height=22px, src="https://komarev.com/ghpvc/?username=zhangkaihua88&label=Profile Views">
+  </a>
+  <a href="https://github.com/zhangkaihua88/zhangkaihua88">
+    <img height=22px, src="https://img.shields.io/github/stars/zhangkaihua88/zhangkaihua88?label=Profile Stars">
+  </a>
+
+</p>
+<p align="center">
   <a href="https://www.paypal.com/paypalme/zhangkaihua">
-      <img height="25px" src="./images/paypal.png" >
-    </a>
+      <img height="30px" src="./images/paypal.png">
+  </a>
 </p>
 
 
+- [About Me](#about-me)
+- [GitHub Analytics](#github-analytics)
+  - [Open source Repo](#open-source-repo)
 
-# :gear: GitHub Analytics
+# About Me
+
+
+# GitHub Analytics
 <p align="center">
 <a href="https://github.com/zhangkaihua88">
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=zhangkaihua88&show_icons=true&include_all_commits=true&count_private=true"/>

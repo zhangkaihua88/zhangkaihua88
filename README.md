@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Kaihua Zhang<img src="./images/Hi.gif" height="32" /></h1>
+
 <p align="center">
   <a href="https://github.com/zhangkaihua88">
     <img src="./images/github-line.svg" width="30px" style="max-width: 100%;">
@@ -14,15 +15,29 @@
   </a>
 </p>
 <p align="center">
-  <img height=25px, src="https://komarev.com/ghpvc/?username=zhangkaihua88">
+  <a href="https://github.com/zhangkaihua88/zhangkaihua88">
+    <img height=22px, src="https://komarev.com/ghpvc/?username=zhangkaihua88&label=Profile Views">
+  </a>
+  <a href="https://github.com/zhangkaihua88/zhangkaihua88">
+    <img height=22px, src="https://img.shields.io/github/stars/zhangkaihua88/zhangkaihua88?label=Profile Stars">
+  </a>
+
+</p>
+<p align="center">
   <a href="https://www.paypal.com/paypalme/zhangkaihua">
-      <img height="25px" src="./images/paypal.png" >
-    </a>
+      <img height="30px" src="./images/paypal.png">
+  </a>
 </p>
 
 
+- [About Me](#about-me)
+- [GitHub Analytics](#github-analytics)
+  - [Open source Repo](#open-source-repo)
 
-# :gear: GitHub Analytics
+# About Me
+
+
+# GitHub Analytics
 <p align="center">
 <a href="https://github.com/zhangkaihua88">
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=zhangkaihua88&show_icons=true&include_all_commits=true&count_private=true"/>
@@ -35,26 +50,26 @@
 ## Open source Repo
 - **[QuickLook](https://github.com/QL-Win/QuickLook) Plugin**
 
- |Name|Language|Stars|Downloads|Version|License|
- |:-:|:-:|:-:|:-:|:-:|:-:|
- |**[JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)|
- |**[XMindViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)|
- |**[KritaVirwer-MergedImage](https://github.com/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)|
- |**[CorelDrawViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|
- |**[DDSViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.DDSViewer)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.DDSViewer)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.DDSViewer)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.DDSViewer/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.DDSViewer)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.DDSViewer)|
+  |Name|Language|Stars|Downloads|Version|License|
+  |:-:|:-:|:-:|:-:|:-:|:-:|
+  |**[JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)|
+  |**[XMindViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)|
+  |**[KritaVirwer-MergedImage](https://github.com/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.KritaVirwer-MergedImage)|
+  |**[CorelDrawViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|
+  |**[DDSViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.DDSViewer)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.DDSViewer)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.DDSViewer)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.DDSViewer/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.DDSViewer)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.DDSViewer)|
 
 - **Competition Repo**
 
- |Name|Other|Language|Stars|License|
- |:-:|:-:|:-:|:-:|:-:|
- |**[2022人民网人工智能算法挑战赛-微博流行度预测](https://github.com/zhangkaihua88/2022WeiboPopularityPrediction)**|Rank 1|![](https://img.shields.io/github/languages/top/zhangkaihua88/2022WeiboPopularityPrediction)|![](https://img.shields.io/github/stars/zhangkaihua88/2022WeiboPopularityPrediction)|![](https://img.shields.io/github/license/zhangkaihua88/2022WeiboPopularityPrediction)|
+  |Name|Other|Language|Stars|License|
+  |:-:|:-:|:-:|:-:|:-:|
+  |**[2022人民网人工智能算法挑战赛-微博流行度预测](https://github.com/zhangkaihua88/2022WeiboPopularityPrediction)**|Rank 1|![](https://img.shields.io/github/languages/top/zhangkaihua88/2022WeiboPopularityPrediction)|![](https://img.shields.io/github/stars/zhangkaihua88/2022WeiboPopularityPrediction)|![](https://img.shields.io/github/license/zhangkaihua88/2022WeiboPopularityPrediction)|
 
 - **Other Repo**
 
- |Name|Language|Stars|Downloads|Version|License|
- |:-:|:-:|:-:|:-:|:-:|:-:|
- |**[BUAA-Postgraduate-Aischedule](https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Postgraduate-Aischedule)|![](https://img.shields.io/github/stars/zhangkaihua88/BUAA-Postgraduate-Aischedule)|![](https://www.zkhweb.top/VercelAPI/api/MIAISchedule/usage_badge.svg)|![](https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Postgraduate-Aischedule)|![](https://img.shields.io/github/license/zhangkaihua88/BUAA-Postgraduate-Aischedule)|
- |**[BUAA-Thesis-Download](https://github.com/zhangkaihua88/BUAA-Thesis-Download)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Thesis-Download)|![](https://img.shields.io/github/stars/zhangkaihua88/BUAA-Thesis-Download)|![](https://img.shields.io/github/downloads/zhangkaihua88/BUAA-Thesis-Download/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Thesis-Download)|![](https://img.shields.io/github/license/zhangkaihua88/BUAA-Thesis-Download)|
+  |Name|Language|Stars|Downloads|Version|License|
+  |:-:|:-:|:-:|:-:|:-:|:-:|
+  |**[BUAA-Postgraduate-Aischedule](https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Postgraduate-Aischedule)|![](https://img.shields.io/github/stars/zhangkaihua88/BUAA-Postgraduate-Aischedule)|![](https://www.zkhweb.top/VercelAPI/api/MIAISchedule/usage_badge.svg)|![](https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Postgraduate-Aischedule)|![](https://img.shields.io/github/license/zhangkaihua88/BUAA-Postgraduate-Aischedule)|
+  |**[BUAA-Thesis-Download](https://github.com/zhangkaihua88/BUAA-Thesis-Download)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Thesis-Download)|![](https://img.shields.io/github/stars/zhangkaihua88/BUAA-Thesis-Download)|![](https://img.shields.io/github/downloads/zhangkaihua88/BUAA-Thesis-Download/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Thesis-Download)|![](https://img.shields.io/github/license/zhangkaihua88/BUAA-Thesis-Download)|
 
 
 

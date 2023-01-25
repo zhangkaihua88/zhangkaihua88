@@ -51,10 +51,10 @@ class ADDTable():
 
     def generate_table(self):
         table = f"- **{self.table_name}**\n\n"
-        table += f" |{'|'.join([item.capitalize() for item in self.columns])}|\n"
-        table += f" |{'|'.join([':-:' for item in self.columns])}|\n"
+        table += f"  |{'|'.join([item.capitalize() for item in self.columns])}|\n"
+        table += f"  |{'|'.join([':-:' for item in self.columns])}|\n"
         for item in self.table_content:
-            table += f" |{'|'.join([self.get_item_column(item, column) for column in self.columns])}|\n"
+            table += f"  |{'|'.join([self.get_item_column(item, column) for column in self.columns])}|\n"
         table += "\n"
         return table
 
@@ -73,6 +73,7 @@ competition_table.append("2022人民网人工智能算法挑战赛-微博流行�
 all_table += competition_table.generate_table()
 
 other_table = ADDTable("Other Repo", ["name", "language", "stars", "downloads", "version", "license"])
+# other_table.append("ReadMe-Profile", "zhangkaihua88")
 other_table.append("BUAA-Postgraduate-Aischedule", "BUAA-Postgraduate-Aischedule", downloads="https://www.zkhweb.top/VercelAPI/api/MIAISchedule/usage_badge.svg")
 other_table.append("BUAA-Thesis-Download", "BUAA-Thesis-Download")
 all_table += other_table.generate_table()
