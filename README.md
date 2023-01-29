@@ -42,7 +42,7 @@
 - 💬 If you have any questions, just ask me.
 
 ## My Skills
-<img align="right" width=50% src="./images/people.gif"/>
+<img align="right" width=45% src="./images/people.gif"/>
 
 **Languages/Frameworks I'm good at:**
 <p>
