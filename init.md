@@ -1,5 +1,6 @@
+<!-- https://remixicon.com/ -->
+<!-- https://simpleicons.org/ -->
 <h1 align="center">Hi there, I'm Kaihua Zhang<img src="./images/Hi.gif" height="32" /></h1>
-
 <p align="center">
   <a href="https://github.com/zhangkaihua88">
     <img src="./images/github-line.svg" width="30px" style="max-width: 100%;">
@@ -31,11 +32,36 @@
 
 
 - [About Me](#about-me)
+  - [My Skills](#my-skills)
 - [GitHub Analytics](#github-analytics)
   - [Open source Repo](#open-source-repo)
 
 # About Me
+- 🔭I am currently a graduate student at Beihang University, majoring in Chemistry. <!-- -  I’m currently working on … -->
+- 🌱 I’m currently learning Machine Learning, Deep Learning, and English.
+- 💬 If you have any questions, just ask me.
 
+## My Skills
+<img align="right" width=50% src="./images/people.gif"/>
+
+**Languages/Frameworks I'm good at:**
+<p>
+  <img height="25px" src="./images/skills/Python.svg" alt="Python", title="Python">
+  
+</p>
+
+**Languages/Frameworks I'm learning:**
+<p>
+  <img height="25px" src="./images/skills/JavaScript.svg" alt="JavaScript" title="JavaScript">
+  <img height="25px" src="./images/skills/HTML5.svg" alt="HTML 5" title="HTML 5">
+  <img height="25px" src="./images/skills/CSS3.svg" alt="CSS 3" title="CSS 3">
+</p>
+
+**Environments I work with:**
+<p>
+  <img height="25px" src="./images/skills/GitHub.svg" alt="GitHub" title="GitHub">
+  <img height="25px" src="./images/skills/VisualStudioCode.svg" alt="Visual Studio Code" title="Visual Studio Code">
+</p>
 
 # GitHub Analytics
 <p align="center">
