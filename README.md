@@ -118,6 +118,8 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail/issues/1) in [zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)
+2. 🗣 Commented on [#1](https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail/issues/1) in [zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
