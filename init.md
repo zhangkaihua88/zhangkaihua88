@@ -35,6 +35,7 @@
   - [My Skills](#my-skills)
 - [GitHub Analytics](#github-analytics)
   - [Open source Repo](#open-source-repo)
+  - [Recent Activity](#recent-activity)
 
 # About Me
 - 🔭I am currently a graduate student at Beihang University, majoring in Chemistry. <!-- -  I’m currently working on … -->
@@ -92,6 +93,9 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zhangkaihua88)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
