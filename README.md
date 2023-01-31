@@ -123,4 +123,13 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 49 mins
+
+Markdown   22 mins         >>>>>>>>>>>--------------   45.82 %
+YAML       17 mins         >>>>>>>>>----------------   36.21 %
+Python     8 mins          >>>>---------------------   17.96 %
+```
+
 <!--END_SECTION:waka-->
