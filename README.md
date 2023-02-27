@@ -89,6 +89,7 @@
 
   |Name|Other|Language|Stars|License|
   |:-:|:-:|:-:|:-:|:-:|
+  |**[Data Competition Baseline](https://github.com/zhangkaihua88/DataCompetitionBaseline)**||![](https://img.shields.io/github/languages/top/zhangkaihua88/DataCompetitionBaseline)|![](https://img.shields.io/github/stars/zhangkaihua88/DataCompetitionBaseline)|![](https://img.shields.io/github/license/zhangkaihua88/DataCompetitionBaseline)|
   |**[2022人民网人工智能算法挑战赛-微博流行度预测](https://github.com/zhangkaihua88/2022WeiboPopularityPrediction)**|Rank 1|![](https://img.shields.io/github/languages/top/zhangkaihua88/2022WeiboPopularityPrediction)|![](https://img.shields.io/github/stars/zhangkaihua88/2022WeiboPopularityPrediction)|![](https://img.shields.io/github/license/zhangkaihua88/2022WeiboPopularityPrediction)|
 
 - **Other Repo**
