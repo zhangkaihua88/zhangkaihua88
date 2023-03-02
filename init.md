@@ -25,9 +25,15 @@
 
 </p>
 <p align="center">
-  <a href="https://www.paypal.com/paypalme/zhangkaihua">
-      <img height="35px" src="./images/paypal.png">
-  </a>
+    <a href="https://www.paypal.com/paypalme/zhangkaihua">
+        <img height="35px" src="./images/paypal.png">
+    </a>
+    <!-- <a href="https://www.paypal.com/paypalme/zhangkaihua">
+        <img height="35px" src="./images/alipay.png">
+    </a> -->
+    <a href="./images/WeChatQR.jpg">
+        <img height="35px" src="./images/wechatpay.png">
+    </a>
 </p>
 
 
@@ -68,7 +74,7 @@
 <p align="center">
 <a href="https://github.com/zhangkaihua88">
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=zhangkaihua88&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangkaihua88&layout=compact&langs_count=8"/>
+  <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangkaihua88&layout=compact&langs_count=8"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhangkaihua88&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangkaihua88&layout=compact&langs_count=8"/> -->
 </a>
