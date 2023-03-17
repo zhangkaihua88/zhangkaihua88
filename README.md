@@ -68,13 +68,14 @@
 <p>
   <img height="25px" src="./images/skills/GitHub.svg" alt="GitHub" title="GitHub">
   <img height="25px" src="./images/skills/VisualStudioCode.svg" alt="Visual Studio Code" title="Visual Studio Code">
+  <img height="25px" src="./images/skills/Docker.svg" alt="Docker" title="Docker">
 </p>
 
 # GitHub Analytics
 <p align="center">
 <a href="https://github.com/zhangkaihua88">
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=zhangkaihua88&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangkaihua88&layout=compact&langs_count=8"/>
+  <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangkaihua88&layout=compact&langs_count=8"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhangkaihua88&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangkaihua88&layout=compact&langs_count=8"/> -->
 </a>
@@ -125,21 +126,7 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#853](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/853) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-2. 🗣 Commented on [#1](https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail/issues/1) in [zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-
-```text
-Total Time: 45 hrs 47 mins
-
-Python       42 hrs 37 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.07 %
-Markdown     1 hr 14 mins    >------------------------   02.72 %
-CSV          1 hr 11 mins    >------------------------   02.60 %
-C            40 mins         -------------------------   01.46 %
-Git Config   1 min           -------------------------   00.06 %
-JSON         1 min           -------------------------   00.05 %
-```
-
 <!--END_SECTION:waka-->

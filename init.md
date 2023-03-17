@@ -68,6 +68,7 @@
 <p>
   <img height="25px" src="./images/skills/GitHub.svg" alt="GitHub" title="GitHub">
   <img height="25px" src="./images/skills/VisualStudioCode.svg" alt="Visual Studio Code" title="Visual Studio Code">
+  <img height="25px" src="./images/skills/Docker.svg" alt="Docker" title="Docker">
 </p>
 
 # GitHub Analytics
