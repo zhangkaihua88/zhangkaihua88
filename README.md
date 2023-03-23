@@ -126,8 +126,8 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/1) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
-2. ❗️ Opened issue [#1](https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule/issues/1) in [zhangkaihua88/BUAA-Postgraduate-Aischedule](https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule)
+1. 🗣 Commented on [#2](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/2) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
+2. ❗️ Opened issue [#1](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/1) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
