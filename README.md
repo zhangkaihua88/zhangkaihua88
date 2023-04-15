@@ -126,8 +126,8 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/2) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
-2. 🗣 Commented on [#2](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/2) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
+1. 🗣 Commented on [#336](https://github.com/wakatime/vscode-wakatime/issues/336) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+2. ❗️ Closed issue [#2](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/2) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
