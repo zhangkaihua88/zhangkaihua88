@@ -70,6 +70,7 @@ all_table += ql_plugin_table.generate_table()
 
 competition_table = ADDTable("Competition Repo", ["name", "other", "language", "stars", "license"])
 competition_table.append("Data Competition Baseline", "DataCompetitionBaseline", other="")
+competition_table.append("Data Competition Solution", "DataCompetitionSolution", other="")
 competition_table.append("2022人民网人工智能算法挑战赛-微博流行度预测", "2022WeiboPopularityPrediction", other="Rank 1")
 all_table += competition_table.generate_table()
 
