@@ -127,8 +127,8 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#853](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/853) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-2. 🗣 Commented on [#1](https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail/issues/1) in [zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)
+1. 🗣 Commented on [#336](https://github.com/wakatime/vscode-wakatime/issues/336) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+2. ❗️ Closed issue [#2](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/2) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
