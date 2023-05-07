@@ -99,6 +99,7 @@
   |**[Data Competition Baseline](https://github.com/zhangkaihua88/DataCompetitionBaseline)**||![](https://img.shields.io/github/languages/top/zhangkaihua88/DataCompetitionBaseline)|![](https://img.shields.io/github/stars/zhangkaihua88/DataCompetitionBaseline)|![](https://img.shields.io/github/license/zhangkaihua88/DataCompetitionBaseline)|
   |**[Data Competition Solution](https://github.com/zhangkaihua88/DataCompetitionSolution)**||![](https://img.shields.io/github/languages/top/zhangkaihua88/DataCompetitionSolution)|![](https://img.shields.io/github/stars/zhangkaihua88/DataCompetitionSolution)|![](https://img.shields.io/github/license/zhangkaihua88/DataCompetitionSolution)|
   |**[2022人民网人工智能算法挑战赛-微博流行度预测](https://github.com/zhangkaihua88/2022WeiboPopularityPrediction)**|Rank 1|![](https://img.shields.io/github/languages/top/zhangkaihua88/2022WeiboPopularityPrediction)|![](https://img.shields.io/github/stars/zhangkaihua88/2022WeiboPopularityPrediction)|![](https://img.shields.io/github/license/zhangkaihua88/2022WeiboPopularityPrediction)|
+  |**[2023招商银行FinTech数据赛道](https://github.com/zhangkaihua88/2023FinTech_CustomerInvestmentPrediction)**|Rank 4|![](https://img.shields.io/github/languages/top/zhangkaihua88/2023FinTech_CustomerInvestmentPrediction)|![](https://img.shields.io/github/stars/zhangkaihua88/2023FinTech_CustomerInvestmentPrediction)|![](https://img.shields.io/github/license/zhangkaihua88/2023FinTech_CustomerInvestmentPrediction)|
 
 - **Other Repo**
 
@@ -127,21 +128,7 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/wakatime/vscode-wakatime/issues/336) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
-2. ❗️ Closed issue [#2](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/2) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-
-```text
-Total Time: 45 hrs 47 mins
-
-Python       42 hrs 37 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.07 %
-Markdown     1 hr 14 mins    >------------------------   02.72 %
-CSV          1 hr 11 mins    >------------------------   02.60 %
-C            40 mins         -------------------------   01.46 %
-Git Config   1 min           -------------------------   00.06 %
-JSON         1 min           -------------------------   00.05 %
-```
-
 <!--END_SECTION:waka-->
