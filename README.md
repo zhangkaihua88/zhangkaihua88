@@ -128,6 +128,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#336](https://github.com/wakatime/vscode-wakatime/issues/336) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+2. ❗️ Closed issue [#2](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/2) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
+3. 🗣 Commented on [#2](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/2) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
+4. ❗️ Opened issue [#1](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/1) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
+5. ❗️ Opened issue [#1](https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule/issues/1) in [zhangkaihua88/BUAA-Postgraduate-Aischedule](https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
