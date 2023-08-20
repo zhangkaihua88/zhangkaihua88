@@ -128,9 +128,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/wakatime/vscode-wakatime/issues/336#issuecomment-1507827716) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
-2. 🔒 Closed issue [#2](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/2) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
-3. 🗣 Commented on [#2](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/2) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
+1. 🗣 Commented on [#17](https://github.com/alisterburt/torch-cubic-spline-grids/issues/17#issuecomment-1684754067) in [alisterburt/torch-cubic-spline-grids](https://github.com/alisterburt/torch-cubic-spline-grids)
+2. ❗ Opened issue [#17](https://github.com/alisterburt/torch-cubic-spline-grids/issues/17) in [alisterburt/torch-cubic-spline-grids](https://github.com/alisterburt/torch-cubic-spline-grids)
+3. ❗ Opened issue [#16](https://github.com/alisterburt/torch-cubic-spline-grids/issues/16) in [alisterburt/torch-cubic-spline-grids](https://github.com/alisterburt/torch-cubic-spline-grids)
 4. ❗ Opened issue [#1](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/issues/1) in [zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer)
 5. ❗️ Opened issue [#1](https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule/issues/1) in [zhangkaihua88/BUAA-Postgraduate-Aischedule](https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule)
 <!--END_SECTION:activity-->
