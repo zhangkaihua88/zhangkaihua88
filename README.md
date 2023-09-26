@@ -101,6 +101,12 @@
   |**[2022人民网人工智能算法挑战赛-微博流行度预测](https://github.com/zhangkaihua88/2022WeiboPopularityPrediction)**|Rank 1|![](https://img.shields.io/github/languages/top/zhangkaihua88/2022WeiboPopularityPrediction)|![](https://img.shields.io/github/stars/zhangkaihua88/2022WeiboPopularityPrediction)|![](https://img.shields.io/github/license/zhangkaihua88/2022WeiboPopularityPrediction)|
   |**[2023招商银行FinTech数据赛道](https://github.com/zhangkaihua88/2023FinTech_CustomerInvestmentPrediction)**|Rank 4|![](https://img.shields.io/github/languages/top/zhangkaihua88/2023FinTech_CustomerInvestmentPrediction)|![](https://img.shields.io/github/stars/zhangkaihua88/2023FinTech_CustomerInvestmentPrediction)|![](https://img.shields.io/github/license/zhangkaihua88/2023FinTech_CustomerInvestmentPrediction)|
 
+- **Code for Book**
+
+  |Name|Other|Language|Stars|License|
+  |:-:|:-:|:-:|:-:|:-:|
+  |**[Interpreting Machine Learning Models With SHAP](https://github.com/zhangkaihua88/Interpreting-Machine-Learning-Models-With-SHAP)**|<a href="https://leanpub.com/shap">book link</a>|![](https://img.shields.io/github/languages/top/zhangkaihua88/Interpreting-Machine-Learning-Models-With-SHAP)|![](https://img.shields.io/github/stars/zhangkaihua88/Interpreting-Machine-Learning-Models-With-SHAP)|![](https://img.shields.io/github/license/zhangkaihua88/Interpreting-Machine-Learning-Models-With-SHAP)|
+
 - **Other Repo**
 
   |Name|Language|Stars|Downloads|Version|License|

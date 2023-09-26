@@ -75,6 +75,10 @@ competition_table.append("2022人民网人工智能算法挑战赛-微博流行�
 competition_table.append("2023招商银行FinTech数据赛道", "2023FinTech_CustomerInvestmentPrediction", other="Rank 4")
 all_table += competition_table.generate_table()
 
+book_table = ADDTable("Code for Book", ["name", "other", "language", "stars", "license"])
+book_table.append("Interpreting Machine Learning Models With SHAP", "Interpreting-Machine-Learning-Models-With-SHAP", other='<a href="https://leanpub.com/shap">book link</a>')
+all_table += book_table.generate_table()
+
 other_table = ADDTable("Other Repo", ["name", "language", "stars", "downloads", "version", "license"])
 # other_table.append("ReadMe-Profile", "zhangkaihua88")
 other_table.append("BUAA-Postgraduate-Aischedule", "BUAA-Postgraduate-Aischedule", downloads="https://www.zkhweb.top/VercelAPI/api/MIAISchedule/usage_badge.svg")
