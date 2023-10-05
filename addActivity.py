@@ -43,7 +43,7 @@ def gen_item(data, key):
     return strings
 
 # https://danmarshall.github.io/google-font-to-svg-path/
-strings = '<p align="center"><img src="./images/Merge.svg" height="50px" style="max-width: 100%;"><img src="./images/git-merge.svg" width="60px" style="max-width: 100%;"></p>\n'
+strings = '<p align="center"><img src="./images/Merge.svg" height="50px" style="max-width: 100%;"><img src="./images/git-merge.svg" width="60px" style="max-width: 100%;"></p>\n\n'
 for item in keys:
     strings += gen_item(data[item], item)
 
