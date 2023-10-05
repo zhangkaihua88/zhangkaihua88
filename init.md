@@ -84,10 +84,8 @@
 
 ## Open source Repo
 <!-- [**REPO**] -->
-<p>
-<font color="#1f883d"> -2 </font>  
-<font color="#cf222e"> +2 </font>  
-</p>
+${\color{green}-2}$
+${\color{red}+2}$
 ```diff
 +
 -
