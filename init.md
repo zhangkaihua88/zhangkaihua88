@@ -88,6 +88,10 @@
 <font color="#1f883d"> -2 </font>  
 <font color="#cf222e"> +2 </font>  
 </p>
+```diff
++
+-
+```
 
 <span class="diffstat" id="diffstat">
     <span color="red">
