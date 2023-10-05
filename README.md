@@ -118,7 +118,6 @@
 
 
 
-
 <!-- <iframe style="height:80px; width:100%;" src="https://www.zkhweb.top/HTML/connect.html" frameborder="0" scrolling="no">  </iframe> -->
 
 
@@ -133,15 +132,15 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zhangkaihua88)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## Total Activity
-<!-- [**PR**] -->
+<img src="./images/git-merge.svg" width="60px" style="max-width: 100%;"> Merge
+
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) PR 2 times with ${\color{green}{-6}} \ {\color{red}{+6}}$
+- [dptech-corp/Uni-Mol](https://github.com/dptech-corp/Uni-Mol) PR 1 times with ${\color{green}{-1}} \ {\color{red}{+1}}$
+- [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) PR 1 times with ${\color{green}{-1}} \ {\color{red}{+1}}$
+
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail/issues/1#issuecomment-1732547088) in [zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)
-2. 🗣 Commented on [#1](https://github.com/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail/issues/1#issuecomment-1732537548) in [zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.XMindViewer-Thumbnail)
-3. 🗣 Commented on [#17](https://github.com/alisterburt/torch-cubic-spline-grids/issues/17#issuecomment-1684754067) in [alisterburt/torch-cubic-spline-grids](https://github.com/alisterburt/torch-cubic-spline-grids)
-4. ❗ Opened issue [#17](https://github.com/alisterburt/torch-cubic-spline-grids/issues/17) in [alisterburt/torch-cubic-spline-grids](https://github.com/alisterburt/torch-cubic-spline-grids)
-5. ❗ Opened issue [#16](https://github.com/alisterburt/torch-cubic-spline-grids/issues/16) in [alisterburt/torch-cubic-spline-grids](https://github.com/alisterburt/torch-cubic-spline-grids)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

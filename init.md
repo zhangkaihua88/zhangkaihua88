@@ -84,24 +84,7 @@
 
 ## Open source Repo
 <!-- [**REPO**] -->
-${\color{green}{-2}}$
-${\color{red}{+2}}$
-```diff
-+
--
-```
 
-<span class="diffstat" id="diffstat">
-    <span color="red">
-        +2
-    </span>
-    <span class="color-fg-danger">
-        −2
-    </span>
-    <span>
-    <span class="diffstat-block-added"></span><span class="diffstat-block-added"></span><span class="diffstat-block-deleted"></span><span class="diffstat-block-deleted"></span><span class="diffstat-block-neutral"></span>
-</span>
-</span>
 
 <!-- <iframe style="height:80px; width:100%;" src="https://www.zkhweb.top/HTML/connect.html" frameborder="0" scrolling="no">  </iframe> -->
 
