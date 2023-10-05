@@ -41,6 +41,7 @@
   - [My Skills](#my-skills)
 - [GitHub Analytics](#github-analytics)
   - [Open source Repo](#open-source-repo)
+  - [Total Activity](#total-activity)
   - [Recent Activity](#recent-activity)
 
 # About Me
@@ -83,8 +84,22 @@
 
 ## Open source Repo
 <!-- [**REPO**] -->
+<p>
+<font color="#1f883d"> -2 </font>  
+<font color="#cf222e"> +2 </font>  
+</p>
 
-
+<span class="diffstat" id="diffstat">
+    <span color="red">
+        +2
+    </span>
+    <span class="color-fg-danger">
+        −2
+    </span>
+    <span>
+    <span class="diffstat-block-added"></span><span class="diffstat-block-added"></span><span class="diffstat-block-deleted"></span><span class="diffstat-block-deleted"></span><span class="diffstat-block-neutral"></span>
+</span>
+</span>
 
 <!-- <iframe style="height:80px; width:100%;" src="https://www.zkhweb.top/HTML/connect.html" frameborder="0" scrolling="no">  </iframe> -->
 
@@ -99,6 +114,8 @@
 - 🏆2022人民网人工智能算法挑战赛-微博流行度预测-TOP1(冠军) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zhangkaihua88)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+## Total Activity
+<!-- [**PR**] -->
 
 ## Recent Activity
 <!--START_SECTION:activity-->
