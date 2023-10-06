@@ -132,7 +132,7 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zhangkaihua88)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## Total Activity
-<p align="center"><img src="./images/PR.svg" height="50px" style="max-width: 100%;"><img src="./images/git-merge.svg" width="60px" style="max-width: 100%;"></p>
+<p align="center"><img src="./images/PR.svg" height="60px" style="max-width: 100%;"><img src="./images/git-merge.svg" width="60px" style="max-width: 100%;"></p>
 
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) PR 2 times with ${\color{green}{-6}} \ {\color{red}{+6}}$
 - [dptech-corp/Uni-Mol](https://github.com/dptech-corp/Uni-Mol) PR 1 times with ${\color{green}{-1}} \ {\color{red}{+1}}$
