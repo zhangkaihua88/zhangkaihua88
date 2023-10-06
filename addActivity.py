@@ -42,8 +42,8 @@ def gen_item(data, key):
     strings = f"- [{key}](https://github.com/{key}) PR " + str(data['count']) + " times with ${\color{green}{-" + str(data['deletions']) + "}} \ {\color{red}{+" + str(data['additions']) + "}}$\n"
     return strings
 
-# https://danmarshall.github.io/google-font-to-svg-path/
-strings = '<p align="center"><img src="./images/Merge.svg" height="50px" style="max-width: 100%;"><img src="./images/git-merge.svg" width="60px" style="max-width: 100%;"></p>\n\n'
+# https://danmarshall.github.io/google-font-to-svg-path/  Akaya Telivigala
+strings = '<p align="center"><img src="./images/PR.svg" height="50px" style="max-width: 100%;"><img src="./images/git-merge.svg" width="60px" style="max-width: 100%;"></p>\n\n'
 for item in keys:
     strings += gen_item(data[item], item)
 
