@@ -46,3 +46,9 @@ jobs:
           git commit -am "GH Action File removed $(date)" 
  
           git push -f origin main
+      
+
+
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
