@@ -1,0 +1,37 @@
+name: UpdateTODO
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  "0 0 * * *"
+  push:
+    
+# on:
+#   [push]
+
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run check of pwd
+      run: pwd
+    - name: Run check of what's in pwd
+      run: ls
+    - name: Run a one-line script
+      run: python ./addTable.py; python ./addActivity.py
+    - name: switching from HTTPS to SSH
+      run: git remote set-url origin ${{ secrets.ssh }}
+    - name: check for changes
+      run: git status
+    - name: stage changed files
+      run: git add .
+    - name: commit changed files
+      run: git commit -m "Auto updating python"
+    - name: fetch from master
+      run: git fetch origin master
+    - name: push code to master
+      run: git push origin HEAD:master
