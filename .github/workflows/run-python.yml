@@ -15,37 +15,37 @@ jobs:
     name: Update Python Data
     runs-on: ubuntu-latest
       
-      steps:
-        - uses: actions/checkout@v2
-        # Install python
-        - name: Set up Python 3.8
-          uses: actions/setup-python@v1
-          with:
-            python-version: 3.8
-        - name: Install python dependencies
-          run: |
-            python -m pip install -U pip
-            python -m pip install -r requirements.txt
+    steps:
+      - uses: actions/checkout@v2
+      # Install python
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - name: Install python dependencies
+        run: |
+          python -m pip install -U pip
+          python -m pip install -r requirements.txt
+        
+      # Build the site
+      - name: Build the site
+        run: |
+          sh build.sh
+
+
+      - name: Commit files - Removes
+        run:
+          git config --local user.name actions-user
+
+          git config --local user.email "actions@github.com" 
           
-        # Build the site
-        - name: Build the site
-          run: |
-            sh build.sh
+          git fetch
 
+          git add *
 
-        - name: Commit files - Removes
-          run:
-            git config --local user.name actions-user
+          git commit -am "GH Action File removed $(date)" 
 
-            git config --local user.email "actions@github.com" 
-            
-            git fetch
-
-            git add *
-
-            git commit -am "GH Action File removed $(date)" 
-  
-            git push -f origin main
+          git push -f origin main
   
   recent_activity:
     runs-on: ubuntu-latest
