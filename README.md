@@ -135,7 +135,7 @@
 <p align="center"><img src="./images/PR.svg" height="60px" style="max-width: 100%;"><img src="./images/git-merge.svg" width="60px" style="max-width: 100%;"></p>
 
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) PR 2 times with ${\color{green}{-6}} \ {\color{red}{+6}}$
-- [dptech-corp/Uni-Mol](https://github.com/dptech-corp/Uni-Mol) PR 1 times with ${\color{green}{-1}} \ {\color{red}{+1}}$
+- [dptech-corp/Uni-Mol](https://github.com/dptech-corp/Uni-Mol) PR 2 times with ${\color{green}{-3}} \ {\color{red}{+3}}$
 - [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) PR 1 times with ${\color{green}{-1}} \ {\color{red}{+1}}$
 
 
