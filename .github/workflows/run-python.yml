@@ -32,13 +32,13 @@ jobs:
         run: |
           sh build.sh
   
-  recent_activity:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-    needs: [python,]
+  # recent_activity:
+  #   runs-on: ubuntu-latest
+  #   name: Update this repo's README with recent activity
+  #   needs: [python,]
 
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - uses: jamesgeorge007/github-activity-readme@master
+  #       env:
+  #         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
