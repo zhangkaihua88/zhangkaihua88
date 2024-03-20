@@ -83,6 +83,7 @@ other_table = ADDTable("Other Repo", ["name", "language", "stars", "downloads", 
 # other_table.append("ReadMe-Profile", "zhangkaihua88")
 other_table.append("BUAA-Postgraduate-Aischedule", "BUAA-Postgraduate-Aischedule", downloads="https://www.zkhweb.top/VercelAPI/api/MIAISchedule/usage_badge.svg")
 other_table.append("BUAA-Thesis-Download", "BUAA-Thesis-Download")
+other_table.append("WebDataScope", "WebDataScope")
 all_table += other_table.generate_table()
 
 with open("init.md", "r", encoding="utf-8") as f:
