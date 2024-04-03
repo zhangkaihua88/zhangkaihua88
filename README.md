@@ -93,6 +93,12 @@
   |**[CorelDrawViewer-Thumbnail](https://github.com/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.CorelDrawViewer-Thumbnail)|
   |**[DDSViewer](https://github.com/zhangkaihua88/QuickLook.Plugin.DDSViewer)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/QuickLook.Plugin.DDSViewer)|![](https://img.shields.io/github/stars/zhangkaihua88/QuickLook.Plugin.DDSViewer)|![](https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.DDSViewer/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.DDSViewer)|![](https://img.shields.io/github/license/zhangkaihua88/QuickLook.Plugin.DDSViewer)|
 
+- **Chrome Plugin**
+
+  |Name|Language|Stars|Downloads|Version|License|
+  |:-:|:-:|:-:|:-:|:-:|:-:|
+  |**[WebDataScope](https://github.com/zhangkaihua88/WebDataScope)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/WebDataScope)|![](https://img.shields.io/github/stars/zhangkaihua88/WebDataScope)|![](https://img.shields.io/github/downloads/zhangkaihua88/WebDataScope/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/WebDataScope)|![](https://img.shields.io/github/license/zhangkaihua88/WebDataScope)|
+
 - **Competition Repo**
 
   |Name|Other|Language|Stars|License|
@@ -114,7 +120,6 @@
   |:-:|:-:|:-:|:-:|:-:|:-:|
   |**[BUAA-Postgraduate-Aischedule](https://github.com/zhangkaihua88/BUAA-Postgraduate-Aischedule)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Postgraduate-Aischedule)|![](https://img.shields.io/github/stars/zhangkaihua88/BUAA-Postgraduate-Aischedule)|![](https://www.zkhweb.top/VercelAPI/api/MIAISchedule/usage_badge.svg)|![](https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Postgraduate-Aischedule)|![](https://img.shields.io/github/license/zhangkaihua88/BUAA-Postgraduate-Aischedule)|
   |**[BUAA-Thesis-Download](https://github.com/zhangkaihua88/BUAA-Thesis-Download)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/BUAA-Thesis-Download)|![](https://img.shields.io/github/stars/zhangkaihua88/BUAA-Thesis-Download)|![](https://img.shields.io/github/downloads/zhangkaihua88/BUAA-Thesis-Download/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/BUAA-Thesis-Download)|![](https://img.shields.io/github/license/zhangkaihua88/BUAA-Thesis-Download)|
-  |**[WebDataScope](https://github.com/zhangkaihua88/WebDataScope)**|![](https://img.shields.io/github/languages/top/zhangkaihua88/WebDataScope)|![](https://img.shields.io/github/stars/zhangkaihua88/WebDataScope)|![](https://img.shields.io/github/downloads/zhangkaihua88/WebDataScope/total?color=success)|![](https://img.shields.io/github/v/release/zhangkaihua88/WebDataScope)|![](https://img.shields.io/github/license/zhangkaihua88/WebDataScope)|
 
 
 
