@@ -39,7 +39,7 @@ for item_data in raw_data:
 keys = sorted(data, key=lambda x: data[x]['additions']+data[x]['deletions'], reverse=True)
 
 def gen_item(data, key):
-    strings = f"- [{key}](https://github.com/{key}) PR " + str(data['count']) + " times with ${\color{green}{-" + str(data['deletions']) + "}} \ {\color{red}{+" + str(data['additions']) + "}}$\n"
+    strings = f"- [{key}](https://github.com/{key}) PR ***" + str(data['count']) + "*** times with ${\color{green}{-" + str(data['deletions']) + "}} \ {\color{red}{+" + str(data['additions']) + "}}$\n"
     return strings
 
 # https://danmarshall.github.io/google-font-to-svg-path/  Akaya Telivigala
